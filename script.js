@@ -1,7 +1,7 @@
 // ETO YUNG LATITUDE AND LONGITUDE
 const realLocation = {
   lat: 51.5408,   //BECKETT FAMILY
-  lng: −0.1561
+  lng: -0.1561
 };
 
 let userGuess = null;
@@ -82,4 +82,5 @@ document.getElementById("submitBtn").onclick = function () {
   map.off('click');
   document.getElementById("submitBtn").disabled = true;
 };
+
 
