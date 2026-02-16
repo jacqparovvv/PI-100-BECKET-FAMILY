@@ -1,7 +1,7 @@
 // ETO YUNG LATITUDE AND LONGITUDE
 const realLocation = {
   lat: 51.5408,   //Becket Family
-  lng: −0.1561
+  lng:  −0.1561
 };
 
 let userGuess = null;
